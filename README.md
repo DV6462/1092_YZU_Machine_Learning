@@ -1,7 +1,7 @@
 # 1092_YZU_Machine_Learning
 
 
-﻿# Steps of donkey car
+# Steps of donkey car
 In this part we will start from how to install packages to training neural network as well as how to utilize this tool.
 
 ## The following tutorial is based on Linux Ubuntu system
