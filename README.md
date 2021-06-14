@@ -83,7 +83,7 @@ $ DONKEY_GYM_ENV_NAME = "donkey-generated-track-v0"
 
 ## Start driving to collect training data
   
-  
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
   
   
 ## Train Neural network
@@ -91,11 +91,6 @@ $ DONKEY_GYM_ENV_NAME = "donkey-generated-track-v0"
   
   
 ## How to use pre-trained model to simulate the donkey car
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  
-  
-  
-  
   
   
 
