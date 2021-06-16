@@ -82,8 +82,8 @@ $ DONKEY_GYM_ENV_NAME = "donkey-generated-track-v0"
 ```
 
 ## Start driving to collect training data
-  
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  you can activate donkey car simulator by using code:
+  $ python manage.py drive
   
   
 ## Train Neural network
