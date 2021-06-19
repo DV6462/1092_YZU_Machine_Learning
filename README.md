@@ -83,7 +83,7 @@ $ DONKEY_GYM_ENV_NAME = "donkey-generated-track-v0"
 
 ## Start driving to collect training data
   
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  
   
   
 ## Train Neural network
