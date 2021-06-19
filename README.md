@@ -80,10 +80,22 @@ $ DONKEY_GYM = True
 $ DONKEY_SIM_PATH = "/home/<user-name>/projects/DonkeySimLinux/donkey_sim.x86_64"
 $ DONKEY_GYM_ENV_NAME = "donkey-generated-track-v0"
 ```
-You need add the ```$ AI_THROTTLE_MULT=1.0``` to mycofig.py that you can run your model in donkey car simulator.
+You need add  ```$ AI_THROTTLE_MULT=1.0``` to mycofig.py that you can run your model in donkey car simulator.
 ## Start driving to collect training data
   
+ You can use code to activate the donkeycar simulator.
+ ```sh
+ $ cd /..../mysim
+ $ python manage.py drive
+ ```
   
+Select the folder (click log dir) to saving your training data.
+
+Then you need use brower and type   ```sh $ <IP address of host PC>:8887 ``` to control your car.
+  
+When you moving donkey car, the donkey car simulator will automatically save your training image to the folder.
+
+<div align=center><img width="850" height="470" src="https://github.com/DV6462/1092_YZU_Machine_Learning/blob/main/images/%E8%A8%BB%E8%A7%A3%202021-06-13%20150354.jpg"/></div>
   
   
 ## Train Neural network
