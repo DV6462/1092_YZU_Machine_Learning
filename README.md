@@ -80,7 +80,7 @@ $ DONKEY_GYM = True
 $ DONKEY_SIM_PATH = "/home/<user-name>/projects/DonkeySimLinux/donkey_sim.x86_64"
 $ DONKEY_GYM_ENV_NAME = "donkey-generated-track-v0"
 ```
-You need add the $ AI_THROTTLE_MULT=1.0 to mycofig.py that you can run your model in donkey car simulator.
+You need add the ```$ AI_THROTTLE_MULT=1.0``` to mycofig.py that you can run your model in donkey car simulator.
 ## Start driving to collect training data
   
   
