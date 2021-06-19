@@ -104,6 +104,7 @@ After collect the training data, you can start to training your own model.
 ```sh
 $ python train.py --tub=data --model ..../mypilot.h
 ```
+Ｙou also can define your training parameter in myconfig.py.
   
 ## How to use pre-trained model to simulate the donkey car
   
