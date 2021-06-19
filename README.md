@@ -99,11 +99,15 @@ When you moving donkey car, the donkey car simulator will automatically save you
   
   
 ## Train Neural network
-  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+After collect the training data, you can start to training your own model.
+
   
   
 ## How to use pre-trained model to simulate the donkey car
   
+```sh
+$ python train.py --tub=data --model ..../mypilot.h
+```
   
 
 Please first go to the directory of mysim and use the virtue environment
