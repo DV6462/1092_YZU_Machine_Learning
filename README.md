@@ -95,7 +95,8 @@ Then you need use brower and type   ```sh $ <IP address of host PC>:8887 ``` to 
   
 When you moving donkey car, the donkey car simulator will automatically save your training image to the folder.
 
-<div align=center><img width="850" height="470" src="https://github.com/DV6462/1092_YZU_Machine_Learning/blob/main/images/%E8%A8%BB%E8%A7%A3%202021-06-13%20150354.jpg"/></div>
+<div align=center><img width="850" height="470" src="https://github.com/DV6462/1092_YZU_Machine_Learning/blob/main/images/Screenshot from 2021-06-19 21-22-54.png
+"/></div>
   
   
 ## Train Neural network
