@@ -14,7 +14,7 @@ https://docs.donkeycar.com/
 
 
 
-First, open derminal and install miniconda as well as clone the donkey project
+First, open terminal and install miniconda as well as clone the donkey project
 
 ```sh
 $ mkdir project
